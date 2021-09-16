@@ -3,5 +3,4 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-uint32_t dump(const char *filename);
-uint32_t byteOrder(uint32_t num);
+uint32_t readInt(const char *filename);
